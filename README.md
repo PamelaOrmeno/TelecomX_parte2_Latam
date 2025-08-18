@@ -138,7 +138,6 @@ jupyter notebook TelecomX_parte2_Latam.ipynb
 ## 📎 Recursos
 
 - 📘 Mentoría: *TelecomX - Parte 2*
-- 📄 Instrucciones oficiales del desafío (PDF)
 - 🧠 Curso Alura Latam - Oracle Next Education
 
 ---
